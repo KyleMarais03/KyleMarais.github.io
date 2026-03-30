@@ -22,4 +22,4 @@ I am an ICT student at CPUT specializing in software development.
 
 ## Contact
 - 222727993@mycput.ac.za
-- Kyle.marais8@gmailc.com
+- Kyle.marais8@gmail.com
