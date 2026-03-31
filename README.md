@@ -27,8 +27,11 @@ I am an ICT student at Cape Peninsula University of Technology (CPUT) specializi
 - **UML to Code, Employee management system** - Built a CRUD-based system for managing employee records
 
 ## Mock Interview Video
-[Watch my mock interview] (https://1drv.ms/v/c/4e28a84b93a2a521/IQCAWDaC4lrKQaw-eCJER-rFARkrmn0y_CoviEldjxEPjdY?e=NHN3Sz)
 
+<video width="600" controls>
+  <source src="WIN_20260307_16_13_42_Pro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Contact
 - 222727993@mycput.ac.za
