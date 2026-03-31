@@ -23,7 +23,7 @@ I am an ICT student at Cape Peninsula University of Technology (CPUT) specializi
 
 ## Projects
 - **Online Voting System** - Designed a secure platform for casting and counting votes digitally
-- **Payment System** - Implemented payment processing with enums, builder patterns and custome exceptions
+- **Payment System** - Implemented payment processing with enums, builder patterns, and custom exceptions
 - **UML to Code, Employee management system** - Built a CRUD-based system for managing employee records
 
 ## Mock Interview Video
